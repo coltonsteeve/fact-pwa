@@ -33,7 +33,7 @@ console.log('Service worker starting');
 if (workbox) {
   console.log(`Service worker Workbox loaded: ${workbox.routing}`)
 
-  const appName = 'js-gui-pwa-fact'
+  const appName = 'fact-pwa'
   const appVersion = 'v1'
   const maxAgeDay = 1 * 24 * 60 * 60
   const maxAgeWeek = maxAgeDay * 7
