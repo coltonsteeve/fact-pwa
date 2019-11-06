@@ -5,7 +5,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
-  "theme_color": "#8a8a8a",
+  "theme_color": "#007257",
   "description": "Simple progressive web app that can be installed on mobile - provides random jokes. What will you make today?",
   "author": {
     "name": "Denise Case",
