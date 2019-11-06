@@ -23,6 +23,7 @@
  * JSDoc comments are written in Markdown.
  *
  * @author Denise Case
+ * @author Colton Steeve
  *
  */
 
@@ -33,7 +34,7 @@ console.log('Service worker starting');
 if (workbox) {
   console.log(`Service worker Workbox loaded: ${workbox.routing}`)
 
-  const appName = 'fact-pwa'
+  const appName = 'FACT'
   const appVersion = 'v1'
   const maxAgeDay = 1 * 24 * 60 * 60
   const maxAgeWeek = maxAgeDay * 7
