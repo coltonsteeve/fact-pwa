@@ -6,12 +6,12 @@
   "orientation": "portrait",
   "background_color": "#fff",
   "theme_color": "#007257",
-  "description": "Simple progressive web app that can be installed on mobile - provides random jokes. What will you make today?",
+  "description": "Simple progressive web app that can be installed on mobile - color picker.",
   "author": {
-    "name": "Denise Case",
-    "website": "https://denisecase.github.io",
-    "github": "https://github.com/denisecase",
-    "source-repo": "https://github.com/denisecase/js-gui-pwa-fact"
+    "name": "Colton Steeve",
+    "website": "https://coltonsteeve.github.io/aboutme/",
+    "github": "https://github.com/coltonsteeve",
+    "source-repo": "https://github.com/coltonsteeve/fact-pwa"
   },
   "icons": [
     {
