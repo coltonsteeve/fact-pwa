@@ -139,8 +139,7 @@ if (workbox) {
           return cache.addAll([
             '.',
             'index.html',
-            'scripts/main.js',
-            'scripts/jokes.js'
+            'main.js'
           ])
         })
         .catch(error => { console.error(`Error in install event: ${error} `) })
